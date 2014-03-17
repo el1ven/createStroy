@@ -1,0 +1,2 @@
+1.按钮样式在viewDidLoad之中进行设置，有normal，highlighted两种状态
+2.隐藏键盘的时候，place和verb都是基本键盘，所以连接到hide方法中，num使用的时数字键盘，没有done返回的键，所以我们建立一个大的Custom透明按钮，链接到hide方法中，点击屏幕的空白处（其实是隐藏按钮的位置）来隐藏键盘。
